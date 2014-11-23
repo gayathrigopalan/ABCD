@@ -6,6 +6,7 @@
         <name>CustomApplication</name>
     </types>
     <types>
+        <members>ABCD_Test__c.Check_List__c</members>
         <members>ABCD_Test__c.Comments__c</members>
         <members>ABCD_Test__c.Date_Time__c</members>
         <name>CustomField</name>
