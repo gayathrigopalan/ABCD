@@ -4,7 +4,22 @@
     <types>
         <members>ABCD</members>
         <name>CustomApplication</name>
-        <!-- Sample Comment -->
+    </types>
+    <types>
+        <members>ABCD_Test__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>ABCD_Test__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>ABCD_Test__c-ABCD Test Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>ABCD_Test__c.All</members>
+        <name>ListView</name>
     </types>
     <version>31.0</version>
 </Package>
