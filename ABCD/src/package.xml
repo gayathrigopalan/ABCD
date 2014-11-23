@@ -4,6 +4,7 @@
     <types>
         <members>ABCD</members>
         <name>CustomApplication</name>
+        <!-- Sample Comment -->
     </types>
     <version>31.0</version>
 </Package>
