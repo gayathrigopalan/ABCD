@@ -53,6 +53,24 @@
     <enableReports>false</enableReports>
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
+    <fields>
+        <fullName>Comments__c</fullName>
+        <externalId>false</externalId>
+        <label>Comments</label>
+        <length>150</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Date_Time__c</fullName>
+        <externalId>false</externalId>
+        <label>Date / Time</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>DateTime</type>
+    </fields>
     <label>ABCD Test</label>
     <listViews>
         <fullName>All</fullName>
